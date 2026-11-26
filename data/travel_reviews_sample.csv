@@ -1,0 +1,76 @@
+review_id,destination,review,sentiment
+M001,Manali,"The mountain scenery was beautiful and the waterfall hike was peaceful.",positive
+M002,Manali,"Our hotel room was clean and the staff were friendly.",positive
+M003,Manali,"Local food was delicious and the cafe owner was helpful.",positive
+M004,Manali,"The bus ride was smooth and the valley views were stunning.",positive
+M005,Manali,"We felt safe walking around and enjoyed the temple visit.",positive
+M006,Manali,"The hostel bed was comfortable and the shared taxi arrived on time.",positive
+M007,Manali,"Fresh meals and welcoming people made the trip lovely.",positive
+M008,Manali,"The lake walk was relaxing and the scenery looked amazing.",positive
+M009,Manali,"The room was quiet, breakfast was good, and the driver was helpful.",positive
+M010,Manali,"Hiking near the mountains was excellent and the trail was clean.",positive
+M011,Manali,"The resort was peaceful and the food tasted fresh.",positive
+M012,Manali,"Beautiful views, friendly cafe staff, and a great waterfall trek.",positive
+M013,Manali,"Traffic was awful and the taxi driver was rude.",negative
+M014,Manali,"The hotel room was dirty, noisy, and uncomfortable.",negative
+M015,Manali,"Food was overpriced and the breakfast service was slow.",negative
+M016,Manali,"The bus was late and the road journey felt unsafe.",negative
+M017,Manali,"Crowded trails and poor signs made the hike disappointing.",negative
+M018,Manali,"Our hostel bed was broken and the shared bathroom smelled bad.",negative
+M019,Manali,"The cafe meal was cold and the staff were unhelpful.",negative
+M020,Manali,"The taxi cost was expensive and the driver took a longer route.",negative
+M021,Manali,"The room was noisy and the resort service was terrible.",negative
+M022,Manali,"The waterfall path was crowded and littered.",negative
+M023,Manali,"The hotel was overpriced, and the food was not good.",negative
+M024,Manali,"The mountain view was nice, but transport was slow and unreliable.",neutral
+M025,Manali,"We stayed two nights and visited the market before lunch.",neutral
+J001,Jaipur,"The fort architecture was beautiful and the museum tour was excellent.",positive
+J002,Jaipur,"Our hotel room was clean and the staff were welcoming.",positive
+J003,Jaipur,"The local food was delicious, especially dinner near the palace.",positive
+J004,Jaipur,"The metro ride was smooth and the old city walk was enjoyable.",positive
+J005,Jaipur,"We felt safe at the market and the guide was helpful.",positive
+J006,Jaipur,"The hostel was comfortable and the breakfast was fresh.",positive
+J007,Jaipur,"The museum and fort activities were well organised.",positive
+J008,Jaipur,"The sunset view from the hill was stunning.",positive
+J009,Jaipur,"A friendly driver took us to the palace on time.",positive
+J010,Jaipur,"The room was quiet and the restaurant served great food.",positive
+J011,Jaipur,"The historic streets were lovely and the fort was amazing.",positive
+J012,Jaipur,"Clean accommodation and delicious cuisine made our stay excellent.",positive
+J013,Jaipur,"Traffic was awful and the taxi fare was overpriced.",negative
+J014,Jaipur,"The hotel room was dirty and the bed was uncomfortable.",negative
+J015,Jaipur,"Food at the restaurant was cold, bland, and disappointing.",negative
+J016,Jaipur,"The bus was late and the road crossing felt unsafe.",negative
+J017,Jaipur,"The market was crowded and vendors were rude.",negative
+J018,Jaipur,"The hostel bathroom was broken and smelled terrible.",negative
+J019,Jaipur,"The fort tour was slow and the guide was unhelpful.",negative
+J020,Jaipur,"Our room was noisy and the hotel service was poor.",negative
+J021,Jaipur,"The metro was crowded and transport was confusing.",negative
+J022,Jaipur,"The palace entry was expensive and the queue was awful.",negative
+J023,Jaipur,"The food was overpriced and not fresh.",negative
+J024,Jaipur,"The fort was impressive, but the market was crowded.",neutral
+J025,Jaipur,"We visited two museums and stayed close to the old city.",neutral
+G001,Goa,"The beach scenery was beautiful and the sunset walk was peaceful.",positive
+G002,Goa,"Our resort room was clean and the staff were friendly.",positive
+G003,Goa,"The seafood dinner was delicious and the cafe was welcoming.",positive
+G004,Goa,"The bus ride was smooth and the beach walk was lovely.",positive
+G005,Goa,"We felt safe near the beach and enjoyed the heritage tour.",positive
+G006,Goa,"The hostel bed was comfortable and the taxi arrived on time.",positive
+G007,Goa,"Fresh food and helpful staff made our stay excellent.",positive
+G008,Goa,"The coastal view was stunning and the fort visit was amazing.",positive
+G009,Goa,"The room was quiet, breakfast was good, and the driver was friendly.",positive
+G010,Goa,"The museum activity was enjoyable and the beach was clean.",positive
+G011,Goa,"The resort was peaceful and the restaurant served great meals.",positive
+G012,Goa,"Beautiful coast, delicious food, and a smooth trip.",positive
+G013,Goa,"Traffic was awful and taxi drivers were rude.",negative
+G014,Goa,"The hotel room was dirty, noisy, and uncomfortable.",negative
+G015,Goa,"Food was overpriced and the breakfast service was slow.",negative
+G016,Goa,"The bus was late and the road journey felt unsafe.",negative
+G017,Goa,"The beach was crowded and littered near the market.",negative
+G018,Goa,"Our hostel bed was broken and the bathroom smelled bad.",negative
+G019,Goa,"The cafe meal was cold and the staff were unhelpful.",negative
+G020,Goa,"The taxi cost was expensive and transport took too long.",negative
+G021,Goa,"The resort service was terrible and the room was noisy.",negative
+G022,Goa,"The beach activity was crowded and poorly organised.",negative
+G023,Goa,"The hotel was overpriced and the food was not good.",negative
+G024,Goa,"The coast looked nice, but transport was slow and confusing.",neutral
+G025,Goa,"We stayed two nights and visited the market before dinner.",neutral
